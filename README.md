@@ -49,8 +49,7 @@ I learned how to host in github, also to know where to practice front end develo
 
 - LinkedIn - (https://www.linkedin.com/in/arlene-obinguar-796165218/)
 - Github - (https://github.com/arlxyz)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@arlxyz](https://www.frontendmentor.io/profile/arlxyz)
 
 
 ## Acknowledgments
